@@ -6,8 +6,13 @@
     ]
   },
   "ExpandedNodes": [
-    ""
+    "",
+    "\\build",
+    "\\cmake",
+    "\\lib",
+    "\\out",
+    "\\src"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\build",
   "PreviewInSolutionExplorer": false
 }
